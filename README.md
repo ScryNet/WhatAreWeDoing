@@ -7,3 +7,34 @@ each person who has a login can also do profile stuff similar to what they have 
 long term it would be cool if it integrated with kickstarter or indie-gogo but by 'helping' voting or commenting you get some of the perks in lieu of putting up moolah...
 
 this would ulitmately create an idea database for people who want to help out other people's ideas..
+
+##First time
+- quickly set me up
+- what projects am I interested in?
+
+##landing page
+- hello
+- tips
+- about
+
+##Dashboard
+- my ideas
+- my projects
+- my badges
+##Profile
+- password schtuff
+- what I can do (akin to LinkedIn - catch a fire)
+##Idea Machine Process
+- Comments
+- Votes
+
+Forum?
+gitter?
+links to kickstarter, patreon, indie-go-go, go fund me, youtube, facebook, twitter...
+tracking contribution to levels in kickstarter
+
+###Sites to go look at
+catch a fire
+linkedIn
+fCC portfolio
+hitRecord
