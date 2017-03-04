@@ -28,13 +28,13 @@ this would ulitmately create an idea database for people who want to help out ot
 - Comments
 - Votes
 
-Forum?
-gitter?
-links to kickstarter, patreon, indie-go-go, go fund me, youtube, facebook, twitter...
+Forum? <br>
+gitter? <br>
+links to kickstarter, patreon, indie-go-go, go fund me, youtube, facebook, twitter... <br>
 tracking contribution to levels in kickstarter
 
 ###Sites to go look at
-catch a fire
-linkedIn
-fCC portfolio
-hitRecord
+- catch a fire
+- linkedIn
+- fCC portfolio
+- hitRecord
