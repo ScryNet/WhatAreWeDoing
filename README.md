@@ -8,23 +8,23 @@ long term it would be cool if it integrated with kickstarter or indie-gogo but b
 
 this would ulitmately create an idea database for people who want to help out other people's ideas..
 
-##First time
+## First time
 - quickly set me up
 - what projects am I interested in?
 
-##landing page
+## landing page
 - hello
 - tips
 - about
 
-##Dashboard
+## Dashboard
 - my ideas
 - my projects
 - my badges
-##Profile
+## Profile
 - password schtuff
 - what I can do (akin to LinkedIn - catch a fire)
-##Idea Machine Process
+## Idea Machine Process
 - Comments
 - Votes
 
