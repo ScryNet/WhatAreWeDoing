@@ -33,7 +33,7 @@ gitter? <br>
 links to kickstarter, patreon, indie-go-go, go fund me, youtube, facebook, twitter... <br>
 tracking contribution to levels in kickstarter
 
-###Sites to go look at
+### Sites to go look at
 - catch a fire
 - linkedIn
 - fCC portfolio
